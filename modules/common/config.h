@@ -1,1 +1,1 @@
-#define TEST_DATA "D:/Data/SoftwareProjects/computerVisionSample/tests/data"
+#define TEST_DATA "D:/Data/SoftwareProjects/OpenCVSample/tests/data"
